@@ -9,7 +9,7 @@ Installation
 .. code::
 
     pip install --pre --upgrade mxnet
-    python setup.py install
+    pip install gluonnlp
 
 Results
 ~~~~~~~~~~~~~~~~
@@ -76,7 +76,7 @@ The key features used to reproduce the results on wikitext-103 based on the corr
    $ cd scripts/language_model
    $ python transformer_language_model.py --data wikitext103 --model bert_lm_24_1024_16_400_2500 --val_batch_size 8 --test_batch_size 8 --bptt 64 --seed 1111 --batch_size 12 --gpus 0
 
-Note that the corresponding multi-gpu evaluations are also supported. The pre-trained model `bert_lm_24_1024_16_400_2500_wikitext103` would be updated soon. The repo would be further cleaned up to contain only minimum modules.
+Note that the corresponding multi-gpu evaluations are also supported. The pre-trained model `bert_lm_24_1024_16_400_2500_wikitext103` would be updated soon.
 
 Reference Paper
 ~~~~~~~~~~~~~~~~
