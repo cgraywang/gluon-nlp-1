@@ -1,3 +1,14 @@
+|ptb|_ |wiki2|_ |wiki103|_
+
+.. |ptb| image:: https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/language-models-with-transformers/language-modelling-on-penn-treebank-word
+.. _ptb: https://paperswithcode.com/sota/language-modelling-on-penn-treebank-word?p=language-models-with-transformers
+
+.. |wiki2| image:: https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/language-models-with-transformers/language-modelling-on-wikitext-2
+.. _wiki2: https://paperswithcode.com/sota/language-modelling-on-wikitext-2?p=language-models-with-transformers
+
+.. |wiki103| image:: https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/language-models-with-transformers/language-modelling-on-wikitext-103
+.. _wiki103: https://paperswithcode.com/sota/language-modelling-on-wikitext-103?p=language-models-with-transformers
+
 Language Models with Transformers
 -----------------------------------
 
