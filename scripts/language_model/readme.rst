@@ -9,11 +9,6 @@
 .. |wiki103| image:: https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/190409408/language-modelling-on-wikitext-103
 .. _wiki103: https://paperswithcode.com/sota/language-modelling-on-wikitext-103?p=190409408
 
-
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/190409408/language-modelling-on-penn-treebank-word)](https://paperswithcode.com/sota/language-modelling-on-penn-treebank-word?p=190409408)
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/190409408/language-modelling-on-wikitext-2)](https://paperswithcode.com/sota/language-modelling-on-wikitext-2?p=190409408)
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/190409408/language-modelling-on-wikitext-103)](https://paperswithcode.com/sota/language-modelling-on-wikitext-103?p=190409408)
-
 Language Models with Transformers
 -----------------------------------
 
