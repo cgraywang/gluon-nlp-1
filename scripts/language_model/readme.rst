@@ -1,13 +1,18 @@
 |ptb|_ |wiki2|_ |wiki103|_
 
-.. |ptb| image:: https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/language-models-with-transformers/language-modelling-on-penn-treebank-word
-.. _ptb: https://paperswithcode.com/sota/language-modelling-on-penn-treebank-word?p=language-models-with-transformers
+.. |ptb| image:: https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/190409408/language-modelling-on-penn-treebank-word
+.. _ptb: https://paperswithcode.com/sota/language-modelling-on-penn-treebank-word?p=190409408
 
-.. |wiki2| image:: https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/language-models-with-transformers/language-modelling-on-wikitext-2
-.. _wiki2: https://paperswithcode.com/sota/language-modelling-on-wikitext-2?p=language-models-with-transformers
+.. |wiki2| image:: https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/190409408/language-modelling-on-wikitext-2
+.. _wiki2: https://paperswithcode.com/sota/language-modelling-on-wikitext-2?p=190409408
 
-.. |wiki103| image:: https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/language-models-with-transformers/language-modelling-on-wikitext-103
-.. _wiki103: https://paperswithcode.com/sota/language-modelling-on-wikitext-103?p=language-models-with-transformers
+.. |wiki103| image:: https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/190409408/language-modelling-on-wikitext-103
+.. _wiki103: https://paperswithcode.com/sota/language-modelling-on-wikitext-103?p=190409408
+
+
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/190409408/language-modelling-on-penn-treebank-word)](https://paperswithcode.com/sota/language-modelling-on-penn-treebank-word?p=190409408)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/190409408/language-modelling-on-wikitext-2)](https://paperswithcode.com/sota/language-modelling-on-wikitext-2?p=190409408)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/190409408/language-modelling-on-wikitext-103)](https://paperswithcode.com/sota/language-modelling-on-wikitext-103?p=190409408)
 
 Language Models with Transformers
 -----------------------------------
